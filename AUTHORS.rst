@@ -169,7 +169,7 @@ Gowrishankar Muthukrishnan         gmuthukr@redhat.com
 Guoshuai Li                        ligs@dtdream.com
 Guolin Yang                        gyang@vmware.com
 Guru Chaitanya Perakam             gperakam@Brocade.com
-Gurucharan Shetty                  guru@ovn.org
+Guru Shetty                  guru@ovn.org
 Han Zhou                           zhouhan@gmail.com
 Hariprasad Govindharajan           hariprasad.govindharajan@intel.com
 Harry Van Haaren                   harry.van.haaren@intel.com
